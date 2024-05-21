@@ -149,3 +149,4 @@ while cont:
     first_iteration = False
     sleep(86400)
     driver.refresh()
+
